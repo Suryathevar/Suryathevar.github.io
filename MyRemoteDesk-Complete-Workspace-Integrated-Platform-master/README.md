@@ -12,42 +12,7 @@ Node JS <br/>
 MySQL <br/>
 HTML,CSS,JS,BOOTSTRAP5
 
-## HOW TO RUN PROJECT:
 
-# WEB APP:
-<pre>
-<code>
-pip install -r requirements.txt
-cd MyRemoteDeskWebApp
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
-
-Check on localhost:8000
-
-Change domain credentials in <a rel="license" href="https://github.com/narender-rk10/MyRemoteDesk-Complete-Workspace-Integrated-Platform/blob/master/MyRemoteDeskWebApp/MyRemoteDesk/settings.py">settings.py</a> for email service.
-</code>
-</pre>
-
-# DESKTOP APP:
-<pre>
-<code>
-cd MyRemoteDeskDesktopApp
-npm install
-npm start
-</code>
-</pre>
-
-# VIDEO APP:
-<pre>
-<code>
-cd MyRemoteDeskVideoApp
-npm install
-npm start
-
-Check on localhost:3000
-</code>
-</pre>
 
 ## PROPOSED SYSTEM
 # A) Employee Management System
